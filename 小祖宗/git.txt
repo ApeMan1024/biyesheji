@@ -1,0 +1,14 @@
+#喜欢你，想真心的去呵护你，希望你也能真心的接受我，而不是纸上谈兵，让我们一起创建美好的明天，正如你所说的以结婚为目的谈一次恋爱一样，我会好好的去呵护好我们的这段感情
+
+克隆：git clone https://github.com/ApeMan1024/biyesheji.git
+
+推送：	
+	git add .
+
+	git commit -m '简要说明'
+	
+	git push origin 分支名称
+
+创建分支：git checkout -b 分支名称
+
+拉取：git pull origin 分支名称
